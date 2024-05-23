@@ -1,0 +1,73 @@
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+body {
+    background: #caffba;
+    font-family: "Open Sans", Arial sans-serif;
+    line-height: 1.7;
+}
+
+.place {
+    background-color: #ffffff;
+    border-color: #ff0000 #00ff37 #00ff37 #ff0000;
+    border: 2px solid #d6a1a1;
+    margin-bottom: 5px;
+    padding: 12px;
+}
+
+.place a {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.place h2 {
+    border-bottom: 1px dashed #00cf11;
+    margin: 0;
+}
+
+h1 {
+    color: #94231b;
+    text-decoration: none;
+}
+
+.place img {
+    border: 1px solid #7E9F19;
+    float: left;
+    margin: 10px 10px;
+    padding: 2px;
+    width: 300;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+.sidenote h3 {
+    font-size: 12px;
+    margin-top: 10;
+}
+
+.sidenote ol {
+    font-size: 12px;
+}
+
+.places {
+    float: left;
+    width: 660px;
+}
+
+.sidenote {
+    background-color: #FFFBE4;
+    border: 1px solid #C9BC8F;
+    float: right;
+    padding: 10px;
+    width: 260px;
+    margin-bottom:15;
+}
